@@ -28,9 +28,10 @@ More application examples using WIZnet chips are available [here](https://github
 
 ## Hardware files
 * [Hardware files created by WIZnet](https://github.com/Wiznet/Hardware-Files-of-WIZnet)
-* [WIZnet IoT Shield](https://github.com/Wiznet/wiznet-iot-shield-hardware-kr)
 
 ##
+:question:
+
 :page_facing_up: If you are looking for the official WIZnet documentation, click on [this](https://docs.wiznet.io/introduction).
 
 :office: To learn about the full range of products and services that WIZnet offers, please visit our official website [WIZnet](https://wiznet.io/).
