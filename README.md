@@ -2,9 +2,9 @@
 
 WIZnet is recognized as the 'de facto standard' in the IoT space, offering TOE (TCP/IP Offload Engine) chips and iMCU products that enable various applications to leverage hardware-based TCP/IP. This delivers outstanding performance in terms of speed, security, and cost-effectiveness. WIZnet’s solutions are widely used in platforms such as Arduino's Ethernet Shield, various clones, and more recently, the Raspberry Pi RP2040 microcontroller.
 
-Our full repository list can be found [here](https://github.com/orgs/Wiznet/repositories).<br/>
-You can find the projects for the EVB-PICO and W55RP20 chips [here](https://github.com/orgs/WIZnet-ioNIC/repositories).<br/>
-More application examples using WIZnet chips are available [here](https://github.com/wiznetmaker).<br/>
+* Our full repository list can be found [here](https://github.com/orgs/Wiznet/repositories).<br/>
+* If you're looking for more applied examples and open source contents from the [wiznetMaker](https://maker.wiznet.io/) site, you can find them [here](https://github.com/wiznetmaker).<br/>
+* Examples for the EVB-Pico and W55RP20 can be found [here](https://github.com/orgs/WIZnet-ioNIC).<br/>
 
 ## Library
 * [ioLibrary Driver (Internet Offload Library for WIZnet chip)](https://github.com/Wiznet/ioLibrary_Driver)<br/>
