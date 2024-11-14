@@ -33,5 +33,3 @@ More application examples using WIZnet chips are available [here](https://github
 :question: For technical support inquiries, please follow the instructions in the image below and click the button at the bottom right of the [WIZnet website](https://wiznet.io/) to leave your message.
 
 :question: You can also leave your inquiries on our [forum](https://maker.wiznet.io/forum?searchWord=&flag=a&dateType=ad&term=a&tags=&category=&page=1) site.
-<br/><br/>
-   ![image](https://github.com/wiznet-grace/.github/blob/a5df0d91f777f22925a4deb110a814ab6fa8df38/support.png)
