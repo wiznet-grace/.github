@@ -8,7 +8,7 @@ More application examples using WIZnet chips are available [here](https://github
 
 ## Library
 * [ioLibrary Driver (Internet Offload Library for WIZnet chip)](https://github.com/Wiznet/ioLibrary_Driver)<br/>
-  Supported Chips : W5500, W5300, W5200, W5100, W5100S<br/>
+  Supported Chips : W5500, W5300, W5200, W5100, W5100S<br/><br/>
 * [io6Library (IPv6 integrated Library for WIZnet chip)](https://github.com/Wiznet/io6Library)<br/>
   Supported Chips : W6100
 
@@ -28,7 +28,7 @@ More application examples using WIZnet chips are available [here](https://github
 
 :page_facing_up: If you are looking for the official WIZnet documentation, click on [this](https://docs.wiznet.io/introduction).
 
-:office: To learn about the full range of products and services that WIZnet offers, please visit our official website [WIZnet](https://wiznet.io/).
+:office: To learn about the full range of products and services that WIZnet offers, please visit our [official website](https://wiznet.io/).
 
 :question: For technical support inquiries, please follow the instructions in the image below and click the button at the bottom right of the [WIZnet website](https://wiznet.io/) to leave your message.
 
