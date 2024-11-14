@@ -10,11 +10,16 @@ More application examples using WIZnet chips are available [here](https://github
 
 ## Library
 * [ioLibrary Driver (Internet Offload Library for WIZnet chip)](https://github.com/Wiznet/ioLibrary_Driver)
+  
+  Supported Chips : W5500, W5300, W5200, W5100, W5100S
 * [io6Library (IPv6 integrated Library for WIZnet chip)](https://github.com/Wiznet/io6Library)
+
+  Supported Chips : W6100
 
 ## S2E (Serial to Ethernet)
 * [WIZ750SR](https://github.com/Wiznet/WIZ750SR)
 * [WIZ550SR](https://github.com/Wiznet/WIZ550SR)
+* [WIZ5XXSR-RP](https://github.com/Wiznet/WIZ5XXSR-RP-C)
 * [WIZ550S2E](https://github.com/Wiznet/WIZ550S2E)
   
 * [Configuration Tool for WIZnet S2E devices](https://github.com/Wiznet/WIZnet-S2E-Tool-GUI)
@@ -23,6 +28,7 @@ More application examples using WIZnet chips are available [here](https://github
 
 ## Hardware files
 * [Hardware files created by WIZnet](https://github.com/Wiznet/Hardware-Files-of-WIZnet)
+* [WIZnet IoT Shield](https://github.com/Wiznet/wiznet-iot-shield-hardware-kr)
 
 ##
 :page_facing_up: If you are looking for the official WIZnet documentation, click on [this](https://docs.wiznet.io/introduction).
